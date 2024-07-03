@@ -1,0 +1,9 @@
+aiogram==3.7.0
+python-dotenv==1.0.1
+requests==2.32.3
+openmeteo_requests==1.2.0
+requests-cache==1.2.1
+retry-requests==2.0.0
+numpy==2.0.0
+pandas==2.2.2
+matplotlib==3.9.0
